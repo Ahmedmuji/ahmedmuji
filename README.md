@@ -14,7 +14,7 @@
 <div align="center">
 
 <!-- Falling binary Matrix-rain header banner -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-banner.svg" width="100%"/>
+<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/c84cd5af5d6a68b3f162f54f51037dfbf39dc64e/assets/matrix-banner.svg" width="100%"/>
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;BS(AI)+@+NUCES;Concocting+intelligent+systems;" alt="Typing SVG" />
