@@ -24,7 +24,7 @@
 <tr>
 
 <td width="70" valign="top">
-<img src="assets/matrix-side-left.svg" width="70" height="2200"/>
+<img src="assets/matrix-side-left.svg" width="70" height="1650"/>
 </td>
 
 <td align="center">
@@ -116,7 +116,7 @@
 </td>
 
 <td width="70" valign="top">
-<img src="assets/matrix-side-right.svg" width="70" height="2200"/>
+<img src="assets/matrix-side-right.svg" width="70" height="1650"/>
 </td>
 
 </tr>
