@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: "Fira Code", Consolas, monospace; font-weight: 700; }
+    .p1 { fill: #A855F7; opacity: .72; }
+    .p2 { fill: #C9A8FF; opacity: .45; }
+    .p3 { fill: #E9D5FF; opacity: .28; }
+  </style>
+  <g><text class="p2" x="40" y="20" font-size="15">0</text><text class="p1" x="85" y="95" font-size="22">1</text><animateTransform attributeName="transform" type="translate" values="0,-120;0,260" dur="12s" begin="-5s" repeatCount="indefinite"/></g>
+  <g><text class="p3" x="190" y="35" font-size="14">1</text><text class="p2" x="245" y="145" font-size="19">0</text><animateTransform attributeName="transform" type="translate" values="0,-160;0,245" dur="15s" begin="-11s" repeatCount="indefinite"/></g>
+  <g><text class="p1" x="385" y="60" font-size="18">0</text><text class="p3" x="450" y="170" font-size="14">1</text><animateTransform attributeName="transform" type="translate" values="0,-135;0,260" dur="13s" begin="-7s" repeatCount="indefinite"/></g>
+  <g><text class="p2" x="600" y="40" font-size="22">1</text><text class="p1" x="680" y="135" font-size="16">0</text><animateTransform attributeName="transform" type="translate" values="0,-150;0,250" dur="16s" begin="-9s" repeatCount="indefinite"/></g>
+  <g><text class="p3" x="820" y="25" font-size="13">0</text><text class="p2" x="885" y="155" font-size="23">1</text><animateTransform attributeName="transform" type="translate" values="0,-125;0,270" dur="14s" begin="-3s" repeatCount="indefinite"/></g>
+  <g><text class="p1" x="1040" y="80" font-size="19">0</text><text class="p3" x="1125" y="180" font-size="16">1</text><animateTransform attributeName="transform" type="translate" values="0,-180;0,245" dur="17s" begin="-13s" repeatCount="indefinite"/></g>
+</svg>

@@ -1,6 +1,9 @@
+<img align="left" src="assets/binary-rain-left-v4.svg" width="90" height="1850" alt="" />
+<img align="right" src="assets/binary-rain-right-v4.svg" width="90" height="1850" alt="" />
+
 <div align="center">
 
-<img src="assets/binary-hero-v3.svg" width="100%" alt="Ahmed Mujtaba" />
+<img src="assets/binary-rain-hero-v4.svg" width="100%" alt="Ahmed Mujtaba" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;BS(AI)+@+NUCES;Concocting+intelligent+systems;" alt="Typing SVG" />
@@ -27,7 +30,7 @@
 
 <br/><br/>
 
-<img src="assets/binary-divider-v3.svg" width="100%" alt="" />
+<img src="assets/binary-rain-band-v4.svg" width="100%" alt="" />
 
 ## Tech Stack
 
@@ -58,7 +61,7 @@
 
 <br/>
 
-<img src="assets/binary-divider-v3.svg" width="100%" alt="" />
+<img src="assets/binary-rain-band-v4.svg" width="100%" alt="" />
 
 **Cloud & Database**
 
@@ -84,6 +87,6 @@
 
 <br/><br/>
 
-<img src="assets/binary-divider-v3.svg" width="100%" alt="" />
+<img src="assets/binary-rain-band-v4.svg" width="100%" alt="" />
 
 </div>
