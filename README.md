@@ -1,14 +1,14 @@
-<img align="left" src="assets/matrix-side-left.svg" width="130" height="980" alt="" />
-<img align="right" src="assets/matrix-side-right.svg" width="130" height="980" alt="" />
+<img align="left" src="assets/matrix-side-left.svg" width="110" height="920" alt="" />
+<img align="right" src="assets/matrix-side-right.svg" width="110" height="920" alt="" />
 
 <div align="center">
 
-<img src="assets/matrix-hero.svg" width="660" height="120" alt="" />
+<img src="assets/matrix-hero.svg" width="540" height="98" alt="" />
 
-<h1><font color="#D8B4FE">Ahmed Mujtaba</font></h1>
+<p><font color="#D8B4FE" size="6"><strong>Ahmed Mujtaba</strong></font></p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=D8B4FE&center=true&vCenter=true&width=620&height=40&lines=AI%2FML+Engineer;Machine+Learning;Multi-Agent+Systems" alt="AI/ML Engineer - Machine Learning - Multi-Agent Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=D8B4FE&center=true&vCenter=true&width=500&height=40&lines=AI%2FML+Engineer;Machine+Learning;Multi-Agent+Systems" alt="AI/ML Engineer - Machine Learning - Multi-Agent Systems" />
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
