@@ -14,11 +14,11 @@
 <div align="center">
 
 <!-- Animated wave header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20There,%20I'm%20Ahmed%20Mujtaba%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20•%20Open%20Source%20Enthusiast%20•%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20There,%20I'm%20Ahmed%20Mujtaba%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20at%20Premier%20Systems%20•%20FAST%20University%20Graduate&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;I+build+things+for+the+web+%26+beyond;Always+learning%2C+always+shipping;Let's+build+something+great+together." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Premier+Systems;FAST+University+Graduate;Building+intelligent+systems+with+AI+%26+ML;Let's+build+something+great+together." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -40,19 +40,9 @@
 <br/><br/>
 
 <!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=Ahmed Mujtaba&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
 
 </div>
-
-<br/>
-
-## 🚀 About Me
-
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Currently learning **[New Technology]**
-- 👯 Looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- ⚡ Fun fact: **[Something interesting about you]**
 
 <br/>
 
@@ -61,15 +51,19 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- Edit the badge list above freely — icon slugs from simpleicons.org work with shields.io -->
 
