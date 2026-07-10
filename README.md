@@ -103,17 +103,6 @@
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" alt="GitHub Streak"/>
 
 <br/><br/>
@@ -132,56 +121,7 @@
 
 <br/>
 
-<!--
-  🐍 CONTRIBUTION SNAKE ANIMATION (eats your contribution graph)
-  One-time setup (2 min):
-  1. In your profile repo, go to Settings > Secrets and variables > Actions
-  2. Create folder .github/workflows/snake.yml with this content:
 
-      name: Generate Snake
-      on:
-        schedule:
-          - cron: "0 0 * * *"
-        workflow_dispatch: {}
-        push:
-          branches: [ main ]
-      jobs:
-        generate:
-          runs-on: ubuntu-latest
-          permissions:
-            contents: write
-          steps:
-            - uses: Platane/snk/svg-only@v3
-              with:
-                github_user_name: YOUR_USERNAME
-                outputs: |
-                  dist/github-contribution-grid-snake.svg
-                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            - uses: crazy-max/ghaction-github-pages@v4
-              with:
-                target_branch: output
-                build_dir: dist
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Push it, let the Action run once, then it self-updates daily.
--->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" width="95%"/>
-</div>
-
-<br/>
 
 <div align="center">
 
