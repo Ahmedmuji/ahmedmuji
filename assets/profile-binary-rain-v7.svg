@@ -1,0 +1,227 @@
+<svg viewBox="0 0 1024 610" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F7ECFF"/>
+      <stop offset="100%" stop-color="#C9A8FF"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      text { font-family: "Fira Code", Consolas, monospace; font-weight: 700; }
+      .rain { writing-mode: vertical-rl; text-orientation: upright; letter-spacing: 3px; filter: url(#glow); }
+      .r1 { fill: #A855F7; opacity: .62; }
+      .r2 { fill: #C084FC; opacity: .42; }
+      .r3 { fill: #E9D5FF; opacity: .25; }
+      .title { fill: url(#nameGrad); font-size: 32px; }
+      .sub { fill: #D8C6FF; font-size: 12px; opacity: .92; }
+      .section { fill: #F4EDFF; font-size: 15px; }
+      .small { fill: #F7F2FF; font-size: 9px; }
+      .line { stroke: #C9A8FF; stroke-opacity: .22; }
+      .badgeText { fill: #fff; font-size: 8px; font-weight: 800; letter-spacing: .7px; }
+      .darkText { fill: #10131A; font-size: 8px; font-weight: 800; letter-spacing: .7px; }
+    </style>
+  </defs>
+
+  <g>
+    <text class="rain r1" x="4" y="-530" font-size="12">010110100101101001011010010110100101101001011010010110100101101001011010</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-60;0,620" dur="12s" begin="-7s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="24" y="-500" font-size="10">101001011010010110100101101001011010010110100101101001011010010110100101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-120;0,600" dur="16s" begin="-11s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="45" y="-560" font-size="13">001011010010110100101101001011010010110100101101001011010010110100101101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,640" dur="14s" begin="-4s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r3" x="68" y="-530" font-size="11">110100101101001011010010110100101101001011010010110100101101001011010010</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-150;0,610" dur="19s" begin="-15s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="92" y="-580" font-size="10">010010110100101101001011010010110100101101001011010010110100101101001011</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-70;0,650" dur="13s" begin="-2s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="118" y="-520" font-size="12">101101001011010010110100101101001011010010110100101101001011010010110100</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-110;0,620" dur="17s" begin="-9s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="143" y="-560" font-size="11">001011010010110100101101001011010010110100101101001011010010110100101101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-90;0,630" dur="15s" begin="-12s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r3" x="168" y="-540" font-size="10">110010110100101101001011010010110100101101001011010010110100101101001011</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-130;0,620" dur="20s" begin="-6s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="194" y="-585" font-size="12">010110100101101001011010010110100101101001011010010110100101101001011010</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-75;0,650" dur="14s" begin="-10s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="220" y="-530" font-size="10">101001011010010110100101101001011010010110100101101001011010010110100101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-150;0,610" dur="18s" begin="-3s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="248" y="-570" font-size="13">001011010010110100101101001011010010110100101101001011010010110100101101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-95;0,640" dur="16s" begin="-13s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r3" x="278" y="-535" font-size="10">110100101101001011010010110100101101001011010010110100101101001011010010</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-115;0,620" dur="19s" begin="-7s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="308" y="-585" font-size="11">010010110100101101001011010010110100101101001011010010110100101101001011</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,655" dur="15s" begin="-1s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="340" y="-520" font-size="12">101101001011010010110100101101001011010010110100101101001011010010110100</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-135;0,615" dur="17s" begin="-14s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="372" y="-560" font-size="10">001011010010110100101101001011010010110100101101001011010010110100101101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-100;0,635" dur="16s" begin="-8s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r3" x="404" y="-550" font-size="11">110010110100101101001011010010110100101101001011010010110100101101001011</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-145;0,625" dur="21s" begin="-16s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="438" y="-590" font-size="12">010110100101101001011010010110100101101001011010010110100101101001011010</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-90;0,660" dur="15s" begin="-5s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="472" y="-530" font-size="10">101001011010010110100101101001011010010110100101101001011010010110100101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-125;0,620" dur="18s" begin="-12s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="506" y="-570" font-size="13">001011010010110100101101001011010010110100101101001011010010110100101101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-85;0,645" dur="14s" begin="-9s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r3" x="540" y="-535" font-size="10">110100101101001011010010110100101101001011010010110100101101001011010010</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-150;0,610" dur="20s" begin="-4s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="574" y="-585" font-size="11">010010110100101101001011010010110100101101001011010010110100101101001011</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-75;0,655" dur="16s" begin="-13s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="608" y="-520" font-size="12">101101001011010010110100101101001011010010110100101101001011010010110100</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-130;0,615" dur="17s" begin="-7s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="642" y="-560" font-size="10">001011010010110100101101001011010010110100101101001011010010110100101101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-95;0,640" dur="15s" begin="-2s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r3" x="676" y="-550" font-size="11">110010110100101101001011010010110100101101001011010010110100101101001011</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-145;0,625" dur="21s" begin="-15s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="710" y="-590" font-size="12">010110100101101001011010010110100101101001011010010110100101101001011010</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-85;0,660" dur="14s" begin="-10s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="744" y="-530" font-size="10">101001011010010110100101101001011010010110100101101001011010010110100101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-120;0,620" dur="18s" begin="-6s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="778" y="-570" font-size="13">001011010010110100101101001011010010110100101101001011010010110100101101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-90;0,650" dur="16s" begin="-12s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r3" x="812" y="-535" font-size="10">110100101101001011010010110100101101001011010010110100101101001011010010</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-150;0,610" dur="19s" begin="-3s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="846" y="-585" font-size="11">010010110100101101001011010010110100101101001011010010110100101101001011</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-80;0,655" dur="15s" begin="-14s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="880" y="-520" font-size="12">101101001011010010110100101101001011010010110100101101001011010010110100</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-135;0,615" dur="17s" begin="-8s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="914" y="-560" font-size="10">001011010010110100101101001011010010110100101101001011010010110100101101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-100;0,640" dur="16s" begin="-4s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r3" x="948" y="-550" font-size="11">110010110100101101001011010010110100101101001011010010110100101101001011</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-145;0,625" dur="20s" begin="-16s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r1" x="982" y="-590" font-size="12">010110100101101001011010010110100101101001011010010110100101101001011010</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-90;0,660" dur="14s" begin="-5s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="rain r2" x="1012" y="-530" font-size="10">101001011010010110100101101001011010010110100101101001011010010110100101</text>
+    <animateTransform attributeName="transform" type="translate" values="0,-125;0,620" dur="18s" begin="-12s" repeatCount="indefinite"/>
+  </g>
+
+  <rect x="314" y="74" width="396" height="94" rx="18" fill="#0B101A" opacity=".66"/>
+  <text class="title" x="512" y="108" text-anchor="middle">Ahmed Mujtaba</text>
+  <text class="sub" x="512" y="132" text-anchor="middle">AI Engineer - FAST University Graduate</text>
+
+  <g transform="translate(421 195)">
+    <rect width="65" height="22" fill="#0E76A8"/><text class="badgeText" x="32.5" y="14" text-anchor="middle">LINKEDIN</text>
+    <rect x="70" width="58" height="22" fill="#1DA1F2"/><text class="badgeText" x="99" y="14" text-anchor="middle">TWITTER</text>
+    <rect x="133" width="58" height="22" fill="#D14836"/><text class="badgeText" x="162" y="14" text-anchor="middle">EMAIL</text>
+    <rect x="196" width="78" height="22" fill="#050505"/><text class="badgeText" x="235" y="14" text-anchor="middle">PORTFOLIO</text>
+  </g>
+
+  <line class="line" x1="160" y1="248" x2="864" y2="248"/>
+  <text class="section" x="512" y="243" text-anchor="middle">Tech Stack</text>
+  <text class="small" x="512" y="279" text-anchor="middle">Programming Languages</text>
+
+  <g transform="translate(405 302)">
+    <rect width="66" height="21" rx="2" fill="#3776AB"/><text class="badgeText" x="33" y="14" text-anchor="middle">PYTHON</text>
+    <rect x="72" width="55" height="21" rx="2" fill="#00599C"/><text class="badgeText" x="99.5" y="14" text-anchor="middle">C++</text>
+    <rect x="133" width="84" height="21" rx="2" fill="#F7DF1E"/><text class="darkText" x="175" y="14" text-anchor="middle">JAVASCRIPT</text>
+    <rect x="223" width="50" height="21" rx="2" fill="#4479A1"/><text class="badgeText" x="248" y="14" text-anchor="middle">SQL</text>
+    <rect x="279" width="53" height="21" rx="2" fill="#4EAA25"/><text class="badgeText" x="305.5" y="14" text-anchor="middle">BASH</text>
+  </g>
+
+  <text class="small" x="512" y="371" text-anchor="middle">Frameworks &amp; Libraries</text>
+  <g transform="translate(238 392)">
+    <rect width="73" height="21" rx="2" fill="#EE4C2C"/><text class="badgeText" x="36.5" y="14" text-anchor="middle">PYTORCH</text>
+    <rect x="78" width="92" height="21" rx="2" fill="#FF6F00"/><text class="badgeText" x="124" y="14" text-anchor="middle">TENSORFLOW</text>
+    <rect x="175" width="58" height="21" rx="2" fill="#D00000"/><text class="badgeText" x="204" y="14" text-anchor="middle">KERAS</text>
+    <rect x="238" width="94" height="21" rx="2" fill="#F7931E"/><text class="badgeText" x="285" y="14" text-anchor="middle">SCIKIT-LEARN</text>
+    <rect x="337" width="66" height="21" rx="2" fill="#412991"/><text class="badgeText" x="370" y="14" text-anchor="middle">OPENAI</text>
+    <rect x="408" width="94" height="21" rx="2" fill="#FFD21E"/><text class="darkText" x="455" y="14" text-anchor="middle">HUGGINGFACE</text>
+    <rect x="507" width="78" height="21" rx="2" fill="#1C3C3C"/><text class="badgeText" x="546" y="14" text-anchor="middle">LANGCHAIN</text>
+    <rect x="590" width="62" height="21" rx="2" fill="#013243"/><text class="badgeText" x="621" y="14" text-anchor="middle">NUMPY</text>
+    <rect x="198" y="28" width="68" height="21" rx="2" fill="#150458"/><text class="badgeText" x="232" y="42" text-anchor="middle">PANDAS</text>
+    <rect x="271" y="28" width="67" height="21" rx="2" fill="#5C3EE8"/><text class="badgeText" x="304.5" y="42" text-anchor="middle">OPENCV</text>
+    <rect x="343" y="28" width="68" height="21" rx="2" fill="#009688"/><text class="badgeText" x="377" y="42" text-anchor="middle">FASTAPI</text>
+    <rect x="416" y="28" width="58" height="21" rx="2" fill="#000000"/><text class="badgeText" x="445" y="42" text-anchor="middle">FLASK</text>
+  </g>
+
+  <text class="small" x="512" y="491" text-anchor="middle">Cloud &amp; Database</text>
+  <g transform="translate(338 510)">
+    <rect width="40" height="21" rx="2" fill="#232F3E"/><text class="badgeText" x="20" y="14" text-anchor="middle">AWS</text>
+    <rect x="46" width="55" height="21" rx="2" fill="#0078D4"/><text class="badgeText" x="73.5" y="14" text-anchor="middle">AZURE</text>
+    <rect x="107" width="52" height="21" rx="2" fill="#4285F4"/><text class="badgeText" x="133" y="14" text-anchor="middle">GCP</text>
+    <rect x="165" width="86" height="21" rx="2" fill="#4169E1"/><text class="badgeText" x="208" y="14" text-anchor="middle">POSTGRESQL</text>
+    <rect x="257" width="78" height="21" rx="2" fill="#47A248"/><text class="badgeText" x="296" y="14" text-anchor="middle">MONGODB</text>
+    <rect x="341" width="58" height="21" rx="2" fill="#4479A1"/><text class="badgeText" x="370" y="14" text-anchor="middle">MYSQL</text>
+    <rect x="405" width="55" height="21" rx="2" fill="#DC382D"/><text class="badgeText" x="432.5" y="14" text-anchor="middle">REDIS</text>
+  </g>
+
+  <text class="small" x="512" y="555" text-anchor="middle">Development &amp; Infrastructure</text>
+  <g transform="translate(300 566) scale(.92)">
+    <rect width="72" height="21" rx="2" fill="#2496ED"/><text class="badgeText" x="36" y="14" text-anchor="middle">DOCKER</text>
+    <rect x="78" width="92" height="21" rx="2" fill="#326CE5"/><text class="badgeText" x="124" y="14" text-anchor="middle">KUBERNETES</text>
+    <rect x="176" width="48" height="21" rx="2" fill="#F05032"/><text class="badgeText" x="200" y="14" text-anchor="middle">GIT</text>
+    <rect x="230" width="112" height="21" rx="2" fill="#2088FF"/><text class="badgeText" x="286" y="14" text-anchor="middle">GITHUB ACTIONS</text>
+    <rect x="348" width="65" height="21" rx="2" fill="#FCC624"/><text class="darkText" x="380.5" y="14" text-anchor="middle">LINUX</text>
+    <rect x="419" width="68" height="21" rx="2" fill="#F37626"/><text class="badgeText" x="453" y="14" text-anchor="middle">JUPYTER</text>
+    <rect x="493" width="65" height="21" rx="2" fill="#007ACC"/><text class="badgeText" x="525.5" y="14" text-anchor="middle">VS CODE</text>
+  </g>
+</svg>
