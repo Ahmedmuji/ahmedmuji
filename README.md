@@ -47,13 +47,10 @@
 
 <br/><br/>
 
-<!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
-
 </div>
 
 <!-- Rain divider -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-divider.svg" width="100%"/>
+<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/b7a715d5109ea15c0f825b63a40e4d44e81a7c85/assets/matrix-divider.svg" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -113,4 +110,4 @@
 </div>
 
 <!-- Rain divider (closing) -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-divider.svg" width="100%"/>
+<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/b7a715d5109ea15c0f825b63a40e4d44e81a7c85/assets/matrix-divider.svg" width="100%"/>
