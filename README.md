@@ -3,7 +3,11 @@
 
 <div align="center">
 
-<img src="assets/matrix-hero.svg" width="660" height="155" alt="Ahmed Mujtaba" />
+<img src="assets/matrix-hero.svg" width="660" height="120" alt="" />
+
+<h1>Ahmed Mujtaba</h1>
+
+<p><strong>AI/ML Engineer · Machine Learning · Multi-Agent Systems</strong></p>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,8 +23,6 @@
 </a>
 
 <br/><br/>
-
-## Tech Stack
 
 **Programming Languages**
 
