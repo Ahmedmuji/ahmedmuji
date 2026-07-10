@@ -1,45 +1,13 @@
-<!--
-  ANIMATED GITHUB PROFILE README — Falling Binary Theme
-  ========================================================
-  HOW TO USE:
-  1. Create a new repo with the SAME name as your GitHub username
-     (e.g. if your username is "johndoe", repo must be "johndoe/johndoe")
-  2. Put this file in it as README.md — GitHub will auto-display it on your profile.
-  3. Upload ALL of these into a folder in your repo, e.g. assets/ :
-       - matrix-hero.svg
-       - matrix-side-left.svg
-       - matrix-side-right.svg
-  4. Find/replace every "YOUR_USERNAME" below with your actual GitHub username
-     so the image paths resolve.
-  5. Replace the social links and skill lists as needed.
+<div align="center">
 
-  NOTE: GitHub sanitizes README HTML/CSS, so a true fixed background behind
-  the whole page isn't possible. This works around that with an HTML table:
-  a narrow rain column on the left, all your content in the middle, and a
-  matching rain column on the right — so the falling numbers run alongside
-  EVERYTHING, including the tech stack section, not just at the top.
--->
+<img src="assets/sparkle-hero-v2.svg" width="100%" alt="Ahmed Mujtaba" />
 
-<table width="100%">
-<tr>
-
-<td width="70" valign="top">
-<img src="assets/matrix-side-left.svg" width="70" height="1650"/>
-</td>
-
-<td align="center">
-
-<!-- Hero: name + subtitle with light sparkle -->
-<img src="assets/matrix-hero.svg" width="100%"/>
-
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;BS(AI)+@+NUCES;Concocting+intelligent+systems;" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social badges -->
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -55,12 +23,13 @@
 
 <br/><br/>
 
-<!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Ahmedmuji&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
 
 <br/><br/>
 
-## 🛠️ Tech Stack
+<img src="assets/sparkle-divider-v2.svg" width="100%" alt="" />
+
+## Tech Stack
 
 **Programming Languages**
 
@@ -89,6 +58,8 @@
 
 <br/>
 
+<img src="assets/sparkle-divider-v2.svg" width="100%" alt="" />
+
 **Cloud & Database**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -111,13 +82,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<!-- Edit any category freely — icon slugs from simpleicons.org work with shields.io -->
+<br/><br/>
 
-</td>
+<img src="assets/sparkle-divider-v2.svg" width="100%" alt="" />
 
-<td width="70" valign="top">
-<img src="assets/matrix-side-right.svg" width="70" height="1650"/>
-</td>
-
-</tr>
-</table>
+</div>

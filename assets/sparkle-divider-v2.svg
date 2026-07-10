@@ -1,0 +1,32 @@
+<svg viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <g id="sparkle">
+      <rect x="10" y="0" width="9" height="9"/>
+      <rect x="0" y="10" width="9" height="9"/>
+      <rect x="10" y="10" width="9" height="9"/>
+      <rect x="20" y="10" width="9" height="9"/>
+      <rect x="10" y="20" width="9" height="9"/>
+    </g>
+    <style>
+      .pink { fill: #DDA0C8; }
+      .purple { fill: #B28AD8; }
+      .gold { fill: #DCCD72; }
+      .float { animation: float 6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .delay1 { animation-delay: -1.6s; }
+      .delay2 { animation-delay: -3.1s; }
+      @keyframes float {
+        0%, 100% { transform: translateY(0) rotate(0deg); opacity: .76; }
+        50% { transform: translateY(-8px) rotate(8deg); opacity: 1; }
+      }
+    </style>
+  </defs>
+  <use href="#sparkle" class="gold float delay2" x="55" y="85" transform="rotate(20 70 100)"/>
+  <use href="#sparkle" class="pink float" x="130" y="50" transform="rotate(-20 145 65)"/>
+  <use href="#sparkle" class="purple float delay1" x="250" y="100" transform="rotate(25 265 115)"/>
+  <use href="#sparkle" class="gold float" x="370" y="35" transform="rotate(-15 385 50)"/>
+  <use href="#sparkle" class="pink float delay2" x="520" y="95" transform="rotate(0 535 110)"/>
+  <use href="#sparkle" class="purple float" x="655" y="45" transform="rotate(-10 670 60)"/>
+  <use href="#sparkle" class="gold float delay1" x="800" y="100" transform="rotate(20 815 115)"/>
+  <use href="#sparkle" class="purple float delay2" x="930" y="55" transform="rotate(0 945 70)"/>
+  <use href="#sparkle" class="pink float" x="1080" y="90" transform="rotate(-18 1095 105)"/>
+</svg>
