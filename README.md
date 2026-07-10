@@ -1,5 +1,5 @@
-<img align="left" src="assets/binary-rain-left-v4.svg" width="90" height="1850" alt="" />
-<img align="right" src="assets/binary-rain-right-v4.svg" width="90" height="1850" alt="" />
+<img align="left" src="assets/binary-rain-left-v4.svg" width="80" height="1150" alt="" />
+<img align="right" src="assets/binary-rain-right-v4.svg" width="80" height="1150" alt="" />
 
 <div align="center">
 
@@ -24,13 +24,7 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ahmedmuji&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
-
-<br/><br/>
-
-<img src="assets/binary-rain-band-v4.svg" width="100%" alt="" />
+<br/>
 
 ## Tech Stack
 
@@ -61,8 +55,6 @@
 
 <br/>
 
-<img src="assets/binary-rain-band-v4.svg" width="100%" alt="" />
-
 **Cloud & Database**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -85,8 +77,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<br/><br/>
-
-<img src="assets/binary-rain-band-v4.svg" width="100%" alt="" />
+<br/>
 
 </div>
