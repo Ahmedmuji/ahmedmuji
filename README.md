@@ -5,7 +5,7 @@
 
 <img src="assets/matrix-hero.svg" width="540" height="98" alt="" />
 
-<p><font color="#D8B4FE" size="6"><strong>Ahmed Mujtaba</strong></font></p>
+<p><font color="#D8B4FE" size="16"><strong>Ahmed Mujtaba</strong></font></p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=D8B4FE&center=true&vCenter=true&width=500&height=40&lines=AI%2FML+Engineer;Machine+Learning;Multi-Agent+Systems" alt="AI/ML Engineer - Machine Learning - Multi-Agent Systems" />
