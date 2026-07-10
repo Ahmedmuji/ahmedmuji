@@ -5,9 +5,11 @@
 
 <img src="assets/matrix-hero.svg" width="660" height="120" alt="" />
 
-<h1>Ahmed Mujtaba</h1>
+<h1><font color="#D8B4FE">Ahmed Mujtaba</font></h1>
 
-<p><strong>AI/ML Engineer · Machine Learning · Multi-Agent Systems</strong></p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=D8B4FE&center=true&vCenter=true&width=620&height=40&lines=AI%2FML+Engineer;Machine+Learning;Multi-Agent+Systems" alt="AI/ML Engineer - Machine Learning - Multi-Agent Systems" />
+</a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
