@@ -5,20 +5,21 @@
 
 <img src="assets/matrix-hero-v2.svg" width="540" height="98" alt="" />
 
-<h1><font color="#D8B4FE">Ahmed Mujtaba</font></h1>
+<p><font color="#D8B4FE" size="7"><strong>Ahmed Mujtaba</strong></font></p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=D8B4FE&center=true&vCenter=true&width=500&height=40&lines=AI%2FML+Engineer;Machine+Learning;Multi-Agent+Systems" alt="AI/ML Engineer - Machine Learning - Multi-Agent Systems" />
 </a>
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ahmed-mujtaba-61640b365/?skipRedirect=true)">
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ahmed-mujtaba-61640b365/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="mailto:ahmedmujtaba4001@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 
 <br/><br/>
 
