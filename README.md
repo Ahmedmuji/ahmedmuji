@@ -40,7 +40,7 @@
 <br/><br/>
 
 <!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Ahmed Mujtaba&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
 
 </div>
 
