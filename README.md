@@ -1,20 +1,29 @@
 <!--
-  ANIMATED GITHUB PROFILE README
-  ================================
+  ANIMATED GITHUB PROFILE README — Matrix Rain Theme
+  ====================================================
   HOW TO USE:
   1. Create a new repo with the SAME name as your GitHub username
      (e.g. if your username is "johndoe", repo must be "johndoe/johndoe")
   2. Put this file in it as README.md — GitHub will auto-display it on your profile.
-  3. Find/replace every "YOUR_USERNAME" with your actual GitHub username.
-  4. Replace [Your Name], [Your Title], links, and skill lists below.
-  5. Upload matrix-banner.svg (provided alongside this file) to your repo,
-     e.g. at the path assets/matrix-banner.svg, so the header banner below works.
+  3. Upload BOTH matrix-hero.svg and matrix-divider.svg (provided alongside this
+     file) into a folder in your repo, e.g. assets/matrix-hero.svg and
+     assets/matrix-divider.svg
+  4. Find/replace every "YOUR_USERNAME" below with your actual GitHub username
+     so the image paths resolve.
+  5. Replace the social links and skill lists as needed.
+
+  NOTE ON THE EFFECT: GitHub sanitizes README HTML/CSS, so there's no way to
+  pin one background layer behind the whole scrolling page. Instead, this
+  uses transparent-background rain SVGs at the top (hero) and as thin
+  divider strips between sections, so the rain motif recurs throughout the
+  page instead of being boxed into a single banner.
 -->
 
 <div align="center">
 
-<!-- Falling binary Matrix-rain header banner -->
-<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/c84cd5af5d6a68b3f162f54f51037dfbf39dc64e/assets/matrix-banner.svg" width="100%"/>
+<!-- Transparent falling-binary hero (name + subtitle overlaid) -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-hero.svg" width="100%"/>
+
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;BS(AI)+@+NUCES;Concocting+intelligent+systems;" alt="Typing SVG" />
@@ -43,7 +52,8 @@
 
 </div>
 
-<br/>
+<!-- Rain divider -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-divider.svg" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -102,9 +112,5 @@
 
 </div>
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
-
-</div>
+<!-- Rain divider (closing) -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-divider.svg" width="100%"/>
