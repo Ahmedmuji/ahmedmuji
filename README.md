@@ -53,7 +53,7 @@
 </div>
 
 <!-- Rain divider -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-divider.svg" width="100%"/>
+<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/0393a005c730047595a4cd52e7360f90761a042f/assets/matrix-divider.svg" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -113,4 +113,4 @@
 </div>
 
 <!-- Rain divider (closing) -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-divider.svg" width="100%"/>
+<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/0393a005c730047595a4cd52e7360f90761a042f/assets/matrix-divider.svg" width="100%"/>
