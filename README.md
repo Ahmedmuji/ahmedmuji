@@ -1,28 +1,36 @@
 <!--
-  ANIMATED GITHUB PROFILE README — Matrix Rain Theme
-  ====================================================
+  ANIMATED GITHUB PROFILE README — Falling Binary Theme
+  ========================================================
   HOW TO USE:
   1. Create a new repo with the SAME name as your GitHub username
      (e.g. if your username is "johndoe", repo must be "johndoe/johndoe")
   2. Put this file in it as README.md — GitHub will auto-display it on your profile.
-  3. Upload BOTH matrix-hero.svg and matrix-divider.svg (provided alongside this
-     file) into a folder in your repo, e.g. assets/matrix-hero.svg and
-     assets/matrix-divider.svg
+  3. Upload ALL of these into a folder in your repo, e.g. assets/ :
+       - matrix-hero.svg
+       - matrix-side-left.svg
+       - matrix-side-right.svg
   4. Find/replace every "YOUR_USERNAME" below with your actual GitHub username
      so the image paths resolve.
   5. Replace the social links and skill lists as needed.
 
-  NOTE ON THE EFFECT: GitHub sanitizes README HTML/CSS, so there's no way to
-  pin one background layer behind the whole scrolling page. Instead, this
-  uses transparent-background rain SVGs at the top (hero) and as thin
-  divider strips between sections, so the rain motif recurs throughout the
-  page instead of being boxed into a single banner.
+  NOTE: GitHub sanitizes README HTML/CSS, so a true fixed background behind
+  the whole page isn't possible. This works around that with an HTML table:
+  a narrow rain column on the left, all your content in the middle, and a
+  matching rain column on the right — so the falling numbers run alongside
+  EVERYTHING, including the tech stack section, not just at the top.
 -->
 
-<div align="center">
+<table width="100%">
+<tr>
 
-<!-- Transparent falling-binary hero (name + subtitle overlaid) -->
-<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/6aa6bf5cff05c7f2cfab167a59986b094ab04673/assets/matrix-hero.svg" width="100%"/>
+<td width="70" valign="top">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-side-left.svg" width="70" style="height:100%; min-height:1400px;"/>
+</td>
+
+<td align="center">
+
+<!-- Hero: name + subtitle with light sparkle -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-hero.svg" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -47,14 +55,12 @@
 
 <br/><br/>
 
-</div>
+<!-- Profile view counter -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
 
-<!-- Rain divider -->
-<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/b7a715d5109ea15c0f825b63a40e4d44e81a7c85/assets/matrix-divider.svg" width="100%"/>
+<br/><br/>
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 **Programming Languages**
 
@@ -107,7 +113,11 @@
 
 <!-- Edit any category freely — icon slugs from simpleicons.org work with shields.io -->
 
-</div>
+</td>
 
-<!-- Rain divider (closing) -->
-<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/b7a715d5109ea15c0f825b63a40e4d44e81a7c85/assets/matrix-divider.svg" width="100%"/>
+<td width="70" valign="top">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-side-right.svg" width="70" style="height:100%; min-height:1400px;"/>
+</td>
+
+</tr>
+</table>
