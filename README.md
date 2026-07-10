@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="assets/matrix-hero.svg" width="100%" alt="Ahmed Mujtaba" />
+<img src="assets/matrix-hero.svg" width="620" height="145" alt="Ahmed Mujtaba" />
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
