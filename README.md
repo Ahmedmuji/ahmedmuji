@@ -1,13 +1,9 @@
-<img align="left" src="assets/binary-side-left-v8.svg" width="72" height="780" alt="" />
-<img align="right" src="assets/binary-side-right-v8.svg" width="72" height="780" alt="" />
+<img align="left" src="assets/matrix-side-left.svg" width="90" height="980" alt="" />
+<img align="right" src="assets/matrix-side-right.svg" width="90" height="980" alt="" />
 
 <div align="center">
 
-# Ahmed Mujtaba
-
-**AI Engineer - FAST University Graduate**
-
-<br/>
+<img src="assets/matrix-hero.svg" width="100%" alt="Ahmed Mujtaba" />
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
