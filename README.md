@@ -7,19 +7,17 @@
   2. Put this file in it as README.md — GitHub will auto-display it on your profile.
   3. Find/replace every "YOUR_USERNAME" with your actual GitHub username.
   4. Replace [Your Name], [Your Title], links, and skill lists below.
-  5. For the snake animation at the bottom, follow the GitHub Action setup
-     instructions in the comment above that section (one-time, ~2 min setup).
+  5. Upload matrix-banner.svg (provided alongside this file) to your repo,
+     e.g. at the path assets/matrix-banner.svg, so the header banner below works.
 -->
 
 <div align="center">
 
-<!-- Animated wave header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20There,%20I'm%20Ahmed%20Mujtaba%20
-&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20at%20Premier%20Systems%20•%20FAST%20University%20Graduate&descAlignY=55&descSize=18" width="100%"/>
-
+<!-- Falling binary Matrix-rain header banner -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-banner.svg" width="100%"/>
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Premier+Systems;FAST+University+Graduate;Building+intelligent+systems+with+AI+%26+ML;Let's+build+something+great+together." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;BS(AI)+@+NUCES;Concocting+intelligent+systems;" alt="Typing SVG" />
 </a>
 
 <br/>
