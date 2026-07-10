@@ -103,29 +103,8 @@
 
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=8E2DE2&line=8E2DE2&point=ffffff" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
-</div>
-
-<br/>
-
-
-
-<div align="center">
-
-### 💜 Thanks for stopping by!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
 
