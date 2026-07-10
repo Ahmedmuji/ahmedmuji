@@ -1,134 +1,134 @@
 <svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
 
 <g transform="translate(90,30)">
-  <text font-family="Consolas, Menlo, monospace" font-size="20" fill="#FF00FF" opacity="1" text-anchor="middle">0
+  <text font-family="Consolas, Menlo, monospace" font-size="48" fill="#FF00FF" opacity="1" text-anchor="middle">0
     <animateTransform attributeName="transform" type="rotate" values="-10 0 0;10 0 0;-10 0 0" dur="5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.62;1" dur="3s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-90; 12,350" dur="13s" begin="-7s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(190,95)">
-  <text font-family="Consolas, Menlo, monospace" font-size="15" fill="#FF4DFF" opacity="0.96" text-anchor="middle">1
+  <text font-family="Consolas, Menlo, monospace" font-size="36" fill="#FF4DFF" opacity="0.96" text-anchor="middle">1
     <animateTransform attributeName="transform" type="rotate" values="-14 0 0;14 0 0;-14 0 0" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.96;0.56;0.96" dur="4s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-120; -8,340" dur="17s" begin="-11s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(325,35)">
-  <text font-family="Consolas, Menlo, monospace" font-size="22" fill="#C000FF" opacity="0.98" text-anchor="middle">1
+  <text font-family="Consolas, Menlo, monospace" font-size="52.8" fill="#C000FF" opacity="0.98" text-anchor="middle">1
     <animateTransform attributeName="transform" type="rotate" values="-8 0 0;8 0 0;-8 0 0" dur="7s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.98;0.58;0.98" dur="3.4s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-80; 4,330" dur="15s" begin="-3s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(465,120)">
-  <text font-family="Consolas, Menlo, monospace" font-size="14" fill="#E040FF" opacity="1" text-anchor="middle">0
+  <text font-family="Consolas, Menlo, monospace" font-size="33.6" fill="#E040FF" opacity="1" text-anchor="middle">0
     <animateTransform attributeName="transform" type="rotate" values="-12 0 0;12 0 0;-12 0 0" dur="4.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.62;1" dur="3.2s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-130; -5,360" dur="12s" begin="-9s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(720,70)">
-  <text font-family="Consolas, Menlo, monospace" font-size="18" fill="#FF66FF" opacity="0.98" text-anchor="middle">1
+  <text font-family="Consolas, Menlo, monospace" font-size="43.2" fill="#FF66FF" opacity="0.98" text-anchor="middle">1
     <animateTransform attributeName="transform" type="rotate" values="-11 0 0;11 0 0;-11 0 0" dur="6.3s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.98;0.58;0.98" dur="4.2s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-110; 7,340" dur="18s" begin="-12s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(850,30)">
-  <text font-family="Consolas, Menlo, monospace" font-size="24" fill="#FF00FF" opacity="1" text-anchor="middle">0
+  <text font-family="Consolas, Menlo, monospace" font-size="57.6" fill="#FF00FF" opacity="1" text-anchor="middle">0
     <animateTransform attributeName="transform" type="rotate" values="-9 0 0;9 0 0;-9 0 0" dur="4.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.64;1" dur="3.6s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-90; -10,350" dur="14s" begin="-5s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(1030,110)">
-  <text font-family="Consolas, Menlo, monospace" font-size="16" fill="#FF4DFF" opacity="0.94" text-anchor="middle">1
+  <text font-family="Consolas, Menlo, monospace" font-size="38.4" fill="#FF4DFF" opacity="0.94" text-anchor="middle">1
     <animateTransform attributeName="transform" type="rotate" values="-15 0 0;15 0 0;-15 0 0" dur="5.2s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.94;0.54;0.94" dur="4.6s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-140; 6,360" dur="19s" begin="-14s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(35,12)">
-  <text font-family="Consolas, Menlo, monospace" font-size="14" fill="#FF4DFF" opacity="0.9" text-anchor="middle">1
+  <text font-family="Consolas, Menlo, monospace" font-size="33.6" fill="#FF4DFF" opacity="0.9" text-anchor="middle">1
     <animate attributeName="opacity" values="0.9;0.5;0.9" dur="3.1s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-70; 8,330" dur="11s" begin="-4s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(135,160)">
-  <text font-family="Consolas, Menlo, monospace" font-size="18" fill="#FF00FF" opacity="1" text-anchor="middle">0
+  <text font-family="Consolas, Menlo, monospace" font-size="43.2" fill="#FF00FF" opacity="1" text-anchor="middle">0
     <animate attributeName="opacity" values="1;0.62;1" dur="3.8s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-170; -6,360" dur="14s" begin="-10s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(245,55)">
-  <text font-family="Consolas, Menlo, monospace" font-size="13" fill="#E040FF" opacity="0.95" text-anchor="middle">0
+  <text font-family="Consolas, Menlo, monospace" font-size="31.2" fill="#E040FF" opacity="0.95" text-anchor="middle">0
     <animate attributeName="opacity" values="0.95;0.56;0.95" dur="4.4s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-95; 4,335" dur="16s" begin="-6s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(370,170)">
-  <text font-family="Consolas, Menlo, monospace" font-size="17" fill="#C000FF" opacity="0.98" text-anchor="middle">1
+  <text font-family="Consolas, Menlo, monospace" font-size="40.8" fill="#C000FF" opacity="0.98" text-anchor="middle">1
     <animate attributeName="opacity" values="0.98;0.58;0.98" dur="3.5s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-185; -10,365" dur="13s" begin="-8s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(535,42)">
-  <text font-family="Consolas, Menlo, monospace" font-size="15" fill="#FF66FF" opacity="0.96" text-anchor="middle">1
+  <text font-family="Consolas, Menlo, monospace" font-size="36" fill="#FF66FF" opacity="0.96" text-anchor="middle">1
     <animate attributeName="opacity" values="0.96;0.54;0.96" dur="3.9s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-85; 7,340" dur="12s" begin="-3s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(610,142)">
-  <text font-family="Consolas, Menlo, monospace" font-size="20" fill="#FF00FF" opacity="1" text-anchor="middle">0
+  <text font-family="Consolas, Menlo, monospace" font-size="48" fill="#FF00FF" opacity="1" text-anchor="middle">0
     <animate attributeName="opacity" values="1;0.64;1" dur="4.1s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-150; -4,355" dur="15s" begin="-12s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(690,18)">
-  <text font-family="Consolas, Menlo, monospace" font-size="12" fill="#FF4DFF" opacity="0.88" text-anchor="middle">0
+  <text font-family="Consolas, Menlo, monospace" font-size="28.8" fill="#FF4DFF" opacity="0.88" text-anchor="middle">0
     <animate attributeName="opacity" values="0.88;0.48;0.88" dur="3.3s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-60; 5,320" dur="10s" begin="-2s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(780,158)">
-  <text font-family="Consolas, Menlo, monospace" font-size="16" fill="#E040FF" opacity="0.97" text-anchor="middle">1
+  <text font-family="Consolas, Menlo, monospace" font-size="38.4" fill="#E040FF" opacity="0.97" text-anchor="middle">1
     <animate attributeName="opacity" values="0.97;0.57;0.97" dur="4.7s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-168; 9,360" dur="17s" begin="-13s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(920,55)">
-  <text font-family="Consolas, Menlo, monospace" font-size="14" fill="#FF66FF" opacity="0.96" text-anchor="middle">0
+  <text font-family="Consolas, Menlo, monospace" font-size="33.6" fill="#FF66FF" opacity="0.96" text-anchor="middle">0
     <animate attributeName="opacity" values="0.96;0.56;0.96" dur="3.6s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-95; -7,335" dur="14s" begin="-7s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(1110,28)">
-  <text font-family="Consolas, Menlo, monospace" font-size="19" fill="#FF00FF" opacity="1" text-anchor="middle">1
+  <text font-family="Consolas, Menlo, monospace" font-size="45.6" fill="#FF00FF" opacity="1" text-anchor="middle">1
     <animate attributeName="opacity" values="1;0.6;1" dur="3.2s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-80; -8,340" dur="12s" begin="-5s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(1165,175)">
-  <text font-family="Consolas, Menlo, monospace" font-size="13" fill="#C000FF" opacity="0.9" text-anchor="middle">0
+  <text font-family="Consolas, Menlo, monospace" font-size="31.2" fill="#C000FF" opacity="0.9" text-anchor="middle">0
     <animate attributeName="opacity" values="0.9;0.5;0.9" dur="4.3s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-185; 4,365" dur="18s" begin="-15s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(300,230)">
-  <text font-family="Consolas, Menlo, monospace" font-size="12" fill="#FF4DFF" opacity="0.88" text-anchor="middle">1
+  <text font-family="Consolas, Menlo, monospace" font-size="28.8" fill="#FF4DFF" opacity="0.88" text-anchor="middle">1
     <animate attributeName="opacity" values="0.88;0.5;0.88" dur="3.7s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-240; 6,380" dur="20s" begin="-16s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(575,235)">
-  <text font-family="Consolas, Menlo, monospace" font-size="14" fill="#FF00FF" opacity="0.94" text-anchor="middle">0
+  <text font-family="Consolas, Menlo, monospace" font-size="33.6" fill="#FF00FF" opacity="0.94" text-anchor="middle">0
     <animate attributeName="opacity" values="0.94;0.52;0.94" dur="3.4s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-245; -5,385" dur="19s" begin="-11s" repeatCount="indefinite"/>
 </g>
 <g transform="translate(865,225)">
-  <text font-family="Consolas, Menlo, monospace" font-size="15" fill="#E040FF" opacity="0.95" text-anchor="middle">1
+  <text font-family="Consolas, Menlo, monospace" font-size="36" fill="#E040FF" opacity="0.95" text-anchor="middle">1
     <animate attributeName="opacity" values="0.95;0.55;0.95" dur="4s" repeatCount="indefinite"/>
   </text>
   <animateTransform attributeName="transform" type="translate" additive="sum" values="0,-235; 5,380" dur="16s" begin="-9s" repeatCount="indefinite"/>

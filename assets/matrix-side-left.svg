@@ -12,7 +12,7 @@
 
 
 <g transform="translate(44.6,887.7)">
-  <text font-family="Consolas, Menlo, monospace" font-size="20.6" fill="#FF8AFF" opacity="0.81" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="20.6" fill="#FF66FF" opacity="0.81" text-anchor="middle">
     0
     <animateTransform attributeName="transform" type="rotate" values="-11.2 0 0;11.2 0 0;-11.2 0 0" dur="7.28s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.77;0.4;0.77" dur="4.38s" repeatCount="indefinite"/>
@@ -23,7 +23,7 @@
 
 
 <g transform="translate(41.2,1301.4)">
-  <text font-family="Consolas, Menlo, monospace" font-size="14.0" fill="#D66BFF" opacity="1" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="14.0" fill="#E040FF" opacity="1" text-anchor="middle">
     1
     <animateTransform attributeName="transform" type="rotate" values="-6.1 0 0;6.1 0 0;-6.1 0 0" dur="5.9s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.47;1" dur="3.03s" repeatCount="indefinite"/>
@@ -122,7 +122,7 @@
 
 
 <g transform="translate(64.8,632.3)">
-  <text font-family="Consolas, Menlo, monospace" font-size="16.9" fill="#D66BFF" opacity="0.7" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="16.9" fill="#E040FF" opacity="0.7" text-anchor="middle">
     1
     <animateTransform attributeName="transform" type="rotate" values="-14.4 0 0;14.4 0 0;-14.4 0 0" dur="6.46s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.66;0.36;0.66" dur="4.88s" repeatCount="indefinite"/>
@@ -144,7 +144,7 @@
 
 
 <g transform="translate(26.1,908.6)">
-  <text font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#FF8AFF" opacity="0.91" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#FF66FF" opacity="0.91" text-anchor="middle">
     0
     <animateTransform attributeName="transform" type="rotate" values="-15.2 0 0;15.2 0 0;-15.2 0 0" dur="4.98s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.87;0.43;0.87" dur="3.61s" repeatCount="indefinite"/>
@@ -177,7 +177,7 @@
 
 
 <g transform="translate(22.5,1188.2)">
-  <text font-family="Consolas, Menlo, monospace" font-size="15.5" fill="#FF8AFF" opacity="0.8" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="15.5" fill="#FF66FF" opacity="0.8" text-anchor="middle">
     0
     <animateTransform attributeName="transform" type="rotate" values="-11.2 0 0;11.2 0 0;-11.2 0 0" dur="4.11s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.76;0.39;0.76" dur="3.63s" repeatCount="indefinite"/>
@@ -265,7 +265,7 @@
 
 
 <g transform="translate(36.9,357.5)">
-  <text font-family="Consolas, Menlo, monospace" font-size="20.4" fill="#D66BFF" opacity="0.87" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="20.4" fill="#E040FF" opacity="0.87" text-anchor="middle">
     1
     <animateTransform attributeName="transform" type="rotate" values="-7.6 0 0;7.6 0 0;-7.6 0 0" dur="5.73s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.83;0.42;0.83" dur="3.8s" repeatCount="indefinite"/>
@@ -276,7 +276,7 @@
 
 
 <g transform="translate(60.1,24.1)">
-  <text font-family="Consolas, Menlo, monospace" font-size="20.5" fill="#D66BFF" opacity="0.99" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="20.5" fill="#E040FF" opacity="0.99" text-anchor="middle">
     1
     <animateTransform attributeName="transform" type="rotate" values="-8.9 0 0;8.9 0 0;-8.9 0 0" dur="7.54s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.95;0.45;0.95" dur="3.55s" repeatCount="indefinite"/>
@@ -287,7 +287,7 @@
 
 
 <g transform="translate(23.9,852.8)">
-  <text font-family="Consolas, Menlo, monospace" font-size="20.6" fill="#FF8AFF" opacity="0.57" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="20.6" fill="#FF66FF" opacity="0.57" text-anchor="middle">
     1
     <animateTransform attributeName="transform" type="rotate" values="-13.7 0 0;13.7 0 0;-13.7 0 0" dur="5.18s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.53;0.32;0.53" dur="2.87s" repeatCount="indefinite"/>
@@ -309,7 +309,7 @@
 
 
 <g transform="translate(18.7,332.8)">
-  <text font-family="Consolas, Menlo, monospace" font-size="13.3" fill="#FF8AFF" opacity="0.9" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="13.3" fill="#FF66FF" opacity="0.9" text-anchor="middle">
     0
     <animateTransform attributeName="transform" type="rotate" values="-8.6 0 0;8.6 0 0;-8.6 0 0" dur="4.95s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.86;0.42;0.86" dur="2.83s" repeatCount="indefinite"/>
@@ -320,7 +320,7 @@
 
 
 <g transform="translate(79.7,70.9)">
-  <text font-family="Consolas, Menlo, monospace" font-size="15.8" fill="#D66BFF" opacity="0.79" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="15.8" fill="#E040FF" opacity="0.79" text-anchor="middle">
     1
     <animateTransform attributeName="transform" type="rotate" values="-12.8 0 0;12.8 0 0;-12.8 0 0" dur="4.25s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.75;0.39;0.75" dur="2.57s" repeatCount="indefinite"/>
@@ -331,7 +331,7 @@
 
 
 <g transform="translate(52.8,538.5)">
-  <text font-family="Consolas, Menlo, monospace" font-size="14.4" fill="#FF8AFF" opacity="0.72" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="14.4" fill="#FF66FF" opacity="0.72" text-anchor="middle">
     0
     <animateTransform attributeName="transform" type="rotate" values="-10.2 0 0;10.2 0 0;-10.2 0 0" dur="6.35s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.68;0.37;0.68" dur="4.78s" repeatCount="indefinite"/>
@@ -386,7 +386,7 @@
 
 
 <g transform="translate(80.9,1261.6)">
-  <text font-family="Consolas, Menlo, monospace" font-size="15.3" fill="#FF8AFF" opacity="0.62" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="15.3" fill="#FF66FF" opacity="0.62" text-anchor="middle">
     1
     <animateTransform attributeName="transform" type="rotate" values="-12.0 0 0;12.0 0 0;-12.0 0 0" dur="7.35s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.58;0.34;0.58" dur="3.85s" repeatCount="indefinite"/>
@@ -408,7 +408,7 @@
 
 
 <g transform="translate(68.4,-8.0)">
-  <text font-family="Consolas, Menlo, monospace" font-size="20.6" fill="#FF8AFF" opacity="0.85" text-anchor="middle">
+  <text font-family="Consolas, Menlo, monospace" font-size="20.6" fill="#FF66FF" opacity="0.85" text-anchor="middle">
     0
     <animateTransform attributeName="transform" type="rotate" values="-8.6 0 0;8.6 0 0;-8.6 0 0" dur="7.01s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.81;0.41;0.81" dur="3.02s" repeatCount="indefinite"/>
