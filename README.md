@@ -22,7 +22,7 @@
 <div align="center">
 
 <!-- Transparent falling-binary hero (name + subtitle overlaid) -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-hero.svg" width="100%"/>
+<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/6aa6bf5cff05c7f2cfab167a59986b094ab04673/assets/matrix-hero.svg" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
