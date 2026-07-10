@@ -1,7 +1,9 @@
-<img align="left" src="assets/matrix-side-left.svg" width="90" height="980" alt="" />
-<img align="right" src="assets/matrix-side-right.svg" width="90" height="980" alt="" />
-
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr border="0">
+<td width="115" valign="top" border="0">
+  <img src="assets/matrix-side-left.svg" width="115" height="860" alt="" />
+</td>
+<td align="center" valign="top" border="0">
 
 <img src="assets/matrix-hero.svg" width="100%" alt="Ahmed Mujtaba" />
 
@@ -71,4 +73,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
+</td>
+<td width="115" valign="top" border="0">
+  <img src="assets/matrix-side-right.svg" width="115" height="860" alt="" />
+</td>
+</tr>
+</table>
