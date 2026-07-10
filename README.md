@@ -1,9 +1,9 @@
-<img align="left" src="assets/matrix-side-left.svg" width="110" height="920" alt="" />
-<img align="right" src="assets/matrix-side-right.svg" width="110" height="920" alt="" />
+<img align="left" src="assets/matrix-side-left-v2.svg" width="110" height="920" alt="" />
+<img align="right" src="assets/matrix-side-right-v2.svg" width="110" height="920" alt="" />
 
 <div align="center">
 
-<img src="assets/matrix-hero.svg" width="540" height="98" alt="" />
+<img src="assets/matrix-hero-v2.svg" width="540" height="98" alt="" />
 
 <h1><font color="#D8B4FE">Ahmed Mujtaba</font></h1>
 
