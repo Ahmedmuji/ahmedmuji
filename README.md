@@ -24,13 +24,13 @@
 <tr>
 
 <td width="70" valign="top">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-side-left.svg" width="70" style="height:100%; min-height:1400px;"/>
+<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/27862f56f248f0543549b4976c312b36a2764228/assets/matrix-side-left.svg" width="70" style="height:100%; min-height:1400px;"/>
 </td>
 
 <td align="center">
 
 <!-- Hero: name + subtitle with light sparkle -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-hero.svg" width="100%"/>
+<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/27862f56f248f0543549b4976c312b36a2764228/assets/matrix-hero.svg" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -116,7 +116,7 @@
 </td>
 
 <td width="70" valign="top">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix-side-right.svg" width="70" style="height:100%; min-height:1400px;"/>
+<img src="https://github.com/Ahmedmuji/ahmedmuji/blob/27862f56f248f0543549b4976c312b36a2764228/assets/matrix-side-right.svg" width="70" style="height:100%; min-height:1400px;"/>
 </td>
 
 </tr>
