@@ -1,13 +1,6 @@
-<img align="left" src="assets/binary-rain-left-v4.svg" width="80" height="1150" alt="" />
-<img align="right" src="assets/binary-rain-right-v4.svg" width="80" height="1150" alt="" />
-
 <div align="center">
 
-<img src="assets/binary-rain-hero-v4.svg" width="100%" alt="Ahmed Mujtaba" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;BS(AI)+@+NUCES;Concocting+intelligent+systems;" alt="Typing SVG" />
-</a>
+<img src="assets/binary-rain-hero-v5.svg" width="100%" alt="Ahmed Mujtaba" />
 
 <br/>
 
