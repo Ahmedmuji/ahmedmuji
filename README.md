@@ -19,6 +19,8 @@
 
 <br/>
 
+<img src="assets/binary-rain-strip-v6.svg" width="100%" alt="" />
+
 ## Tech Stack
 
 **Programming Languages**
@@ -30,6 +32,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 <br/>
+
+<img src="assets/binary-rain-strip-v6.svg" width="100%" alt="" />
 
 **Frameworks & Libraries**
 
@@ -48,6 +52,8 @@
 
 <br/>
 
+<img src="assets/binary-rain-strip-v6.svg" width="100%" alt="" />
+
 **Cloud & Database**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -60,6 +66,8 @@
 
 <br/>
 
+<img src="assets/binary-rain-strip-v6.svg" width="100%" alt="" />
+
 **Development & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -71,5 +79,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br/>
+
+<img src="assets/binary-rain-strip-v6.svg" width="100%" alt="" />
 
 </div>
